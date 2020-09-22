@@ -1,0 +1,26 @@
+andreabiancoresume.css
+/* andrea-resume-style.css */
+body {
+    font-family: 'Kumbh Sans', Helvetica, Arial, sans-serif;
+    background-color: #ccc;
+}
+h1 {
+ color: purple;
+}
+h2 {
+list-style-type: square;
+}
+h3 {
+    list-style-type: square;
+}
+p#gradientBG {
+    background-image: url("./gradient_bg.png");
+    background-repeat: repeat-x;
+}
+.border-box {
+    background-color: #fff;
+    border: 2px solid purple;
+    width: 18em;
+    padding: 1em;
+    color: #000;
+}
